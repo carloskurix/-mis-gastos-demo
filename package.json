@@ -1,0 +1,1 @@
+{"dependencies":{"pg":"^8.13.0"},"description":"Mis Gastos: registro personal de gastos con login y base de datos real. Node.js + Postgres en producción, JSON en local.","engines":{"node":">=18"},"main":"server.js","name":"mis-gastos-demo","scripts":{"start":"node server.js"},"version":"1.0.0"}
